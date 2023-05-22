@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning about 5 coding languages
 - 💞️ I’m looking to collaborate on anything game related
-- 📫 How to reach me: Dont't
+- 📫 How to reach me: Discord (JThac#4590) and Reddit (u/JThac1001)
 
 <!---
 JThac1001/JThac1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
